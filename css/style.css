@@ -32,7 +32,6 @@ a{
 
 header{
     background: #fff;
-    position: fixed;
     width: 100%;
     padding: 0 15px;
     border-bottom: 1px solid #5f6368;
@@ -64,5 +63,7 @@ header .list-navbar .selected > a{
     color: #3367d6;
 }
 .main-container{
-	text-align: center;
+	padding: 0% 15%;
+	margin-top: 15px;
+	margin-bottom: 40px;
 }
